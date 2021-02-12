@@ -1,11 +1,11 @@
 // Selection (Primary) color
-$key_selection_color: #3F51B5;
+$key_selection_color: #5b8bd6;
 
 // Accent (Seondary) color
-$key_accent_color: #7986cb;
+$key_accent_color: lighten(#5b8bd6, 25);
 
 // Suggestion color
-$key_suggestion_color: #009688;
+$key_suggestion_color: #a56cc4;
 
 // Destruction (Tertiary) color
-$key_destruction_color: #FF5252;
+$key_destruction_color: #dd4e4e;
